@@ -1,0 +1,39 @@
+.LoginAndRegister {
+    background-color: #282c34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.LoginAndRegister section {
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+}
+
+.LoginAndRegister section input {
+    width: 30ch;
+    height: 5vh;
+    margin: 10px 0px 0px 0px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2vh;
+}
+
+.LoginAndRegister section button {
+    margin: 10px 0px 0px 0px;
+    width: 100%;
+    border-radius: 5px;
+    height: 5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3vh;
+}
+
+.LoginAndRegister section button:hover {
+    border: 10px;
+}

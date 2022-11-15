@@ -1,0 +1,24 @@
+form {
+    padding: 10px;
+}
+
+form .manga-card {
+    display: flex;
+}
+
+form .manga-information {
+    padding: 10px;
+}
+
+form .genres {
+    display: flex;
+}
+
+form .genres-list {
+    margin-bottom: auto;
+    display: flex;
+}
+
+form .genres-list .genre {
+    margin-bottom: auto;
+}

@@ -1,0 +1,19 @@
+body {
+  /* background-color: #282c34 !important; */
+  height: 100vh;
+  overflow-x: hidden;
+
+}
+
+nav {
+  width: 100vw;
+}
+
+.dropdown-item {
+  color: black;
+}
+
+.dropdown-item:focus {
+  background-color: transparent !important;
+  color: black !important;
+}
